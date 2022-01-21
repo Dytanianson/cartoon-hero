@@ -1,0 +1,7 @@
+body{ background-color: mediumseagreen; }
+h1{ font-size: 30px; color: darksalmon; }
+h2{ font-size: 20px; color: deeppink; }
+h1 span{ color: red; }
+.uppercase{ text-transform: uppercase; }
+.big{ font-size: 60px; }
+	
